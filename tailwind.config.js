@@ -12,9 +12,9 @@ module.exports = {
           neutral: "#3d4451",
           "base-100": "#ffffff",
         },
-      },
+      },/* 
       "dark",
-      "cupcake",
+      "cupcake", */
     ],
   },
   plugins: [require("daisyui")],
